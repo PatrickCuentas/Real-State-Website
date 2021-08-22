@@ -168,7 +168,7 @@ i {
 }
 @media (min-width: 768px) {
   .navegacion {
-    display: block;
+    display: block !important;
   }
 }
 /** Iconos Nosotros **/
